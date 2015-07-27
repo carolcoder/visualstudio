@@ -1,0 +1,18 @@
+C:\Users\no0317\Documents\Visual Studio 2013\Projects\Triangulo\Triangulo\bin\Debug\Triangulo.exe.config
+C:\Users\no0317\Documents\Visual Studio 2013\Projects\Triangulo\Triangulo\obj\Debug\Triangulo.csprojResolveAssemblyReference.cache
+C:\Users\no0317\Documents\Visual Studio 2013\Projects\Triangulo\Triangulo\obj\Debug\Triangulo.Form1.resources
+C:\Users\no0317\Documents\Visual Studio 2013\Projects\Triangulo\Triangulo\obj\Debug\Triangulo.Properties.Resources.resources
+C:\Users\no0317\Documents\Visual Studio 2013\Projects\Triangulo\Triangulo\obj\Debug\Triangulo.csproj.GenerateResource.Cache
+C:\Users\no0317\Documents\Visual Studio 2013\Projects\Triangulo\Triangulo\bin\Debug\Triangulo.exe
+C:\Users\no0317\Documents\Visual Studio 2013\Projects\Triangulo\Triangulo\bin\Debug\Triangulo.pdb
+C:\Users\no0317\Documents\Visual Studio 2013\Projects\Triangulo\Triangulo\obj\Debug\Triangulo.exe
+C:\Users\no0317\Documents\Visual Studio 2013\Projects\Triangulo\Triangulo\obj\Debug\Triangulo.pdb
+C:\Users\sao-carolinamo\Documents\Carolina\vs\Triangulo\Triangulo\bin\Debug\Triangulo.exe.config
+C:\Users\sao-carolinamo\Documents\Carolina\vs\Triangulo\Triangulo\obj\Debug\Triangulo.exe
+C:\Users\sao-carolinamo\Documents\Carolina\vs\Triangulo\Triangulo\obj\Debug\Triangulo.pdb
+C:\Users\sao-carolinamo\Documents\Carolina\vs\Triangulo\Triangulo\bin\Debug\Triangulo.exe
+C:\Users\sao-carolinamo\Documents\Carolina\vs\Triangulo\Triangulo\bin\Debug\Triangulo.pdb
+C:\Users\sao-carolinamo\Documents\Carolina\vs\Triangulo\Triangulo\obj\Debug\Triangulo.csprojResolveAssemblyReference.cache
+C:\Users\sao-carolinamo\Documents\Carolina\vs\Triangulo\Triangulo\obj\Debug\Triangulo.Form1.resources
+C:\Users\sao-carolinamo\Documents\Carolina\vs\Triangulo\Triangulo\obj\Debug\Triangulo.Properties.Resources.resources
+C:\Users\sao-carolinamo\Documents\Carolina\vs\Triangulo\Triangulo\obj\Debug\Triangulo.csproj.GenerateResource.Cache
